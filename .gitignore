@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+venv/
+.env
+backend/coding-test-sales-dashboard-66aeb52559fb.json
