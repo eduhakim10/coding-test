@@ -3,3 +3,8 @@ __pycache__/
 venv/
 .env
 backend/coding-test-sales-dashboard-66aeb52559fb.json
+frontend/.next/
+frontend/node_modules/
+
+
+
